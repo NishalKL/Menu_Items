@@ -9,8 +9,6 @@ Creating Menu items order in restaurents using HTML and CSS
 
 Certainly! Here's a list of items:
 
-- Home
-- About
 - Idly
 - Kal Dosai
 - Parotta
