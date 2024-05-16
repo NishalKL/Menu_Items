@@ -3,7 +3,7 @@ Creating Menu items order in restaurents using HTML and CSS
 
 ## Preview
 
-![image](https://github.com/NishalKL/Menu_Items/assets/169981248/3864b0d8-96f2-41e6-95d5-749770f73abf)
+![image](https://github.com/NishalKL/Menu_Items/assets/169981248/5cebb7aa-8f3c-4563-ba8c-e3974ae999a5)
 
 ## Menu
 
