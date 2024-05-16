@@ -1,10 +1,6 @@
 # Menu_Items
 Creating Menu items order in restaurents using HTML and CSS
 
-## Preview
-
-![image](https://www.thambivilas.com/menu)
-
 ## Menu
 
 Certainly! Here's a list of items:
@@ -36,6 +32,7 @@ You can customize the menu by editing the `index.html` and `styles.css` files. F
 ![image](https://github.com/NishalKL/Menu_Items/assets/169981248/e9272d7e-3da2-44fa-a1ac-2ba63e2e9d7b)
 ![image](https://github.com/NishalKL/Menu_Items/assets/169981248/97fe32e7-f940-4781-bff8-afe6605f8a09)
 ![image](https://github.com/NishalKL/Menu_Items/assets/169981248/6d12b9e1-4406-45f2-ba67-248f551e088f)
+![image](https://github.com/NishalKL/Menu_Items/assets/169981248/5967ecf1-a9ea-49f3-baf2-cc041fb11ec8)
 
 ## License
 
