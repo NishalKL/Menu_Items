@@ -7,20 +7,21 @@ Creating Menu items order in restaurents using HTML and CSS
 
 ## Menu
 
-### Appetizers
-- Bruschetta
-- Caprese Salad
-- Garlic Bread
+Certainly! Here's a list of items:
 
-### Main Courses
-- Spaghetti Carbonara
-- Grilled Salmon
-- Margherita Pizza
+### Home
+### About
+### Idly
+### Kal Dosai
+### Parotta
+### Salnaa
+### Chappathi
+### Omelette, Kalaki
+### More Recipes (with sub-menu items):
+   - Cookies
+   - Sandwich
 
-### Desserts
-- Tiramisu
-- Chocolate Lava Cake
-- Vanilla Ice Cream
+You can use this list to display your restaurant's menu or navigation items.
 
 ## How to Use
 
