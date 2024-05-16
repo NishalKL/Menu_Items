@@ -30,6 +30,10 @@ You can use this list to display your restaurant's menu or navigation items.
 
 You can customize the menu by editing the `index.html` and `styles.css` files. Feel free to add more menu items or adjust the styling to fit your restaurant's branding.
 
+## Output
+
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
