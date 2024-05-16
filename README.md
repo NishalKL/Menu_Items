@@ -32,6 +32,8 @@ You can customize the menu by editing the `index.html` and `styles.css` files. F
 
 ## Output
 
+![image](https://github.com/NishalKL/Menu_Items/assets/169981248/aafc95a3-0c9e-4303-bf06-f69a0e2471d7)
+
 
 
 ## License
